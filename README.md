@@ -14,10 +14,10 @@
 
 ### Challenges et certifications en cours 🎓
 
-- [Frontend Mentor Challenges](https://github.com/zathio/frontendmentor-challenges) :   
+- [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :   
     &nbsp;&nbsp;5 Projects
 
-- [FreeCodeCamp Certifications](https://www.freecodecamp.org/zathio) :   
+- [FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) :   
     &nbsp;&nbsp;✔️(100%) Responsive Web Design   
     &nbsp;&nbsp;⏳(0%) Javascript algorithms and data structures  
     &nbsp;&nbsp;⏳(0%) Frontend Libraries
