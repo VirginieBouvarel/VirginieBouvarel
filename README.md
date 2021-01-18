@@ -1,4 +1,4 @@
-![Cover](https://github.com/VirginieBouvarel/VirginieBouvarel/master/img/cover.jpg)
+![Cover](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
 
 ### Hi, Bienvenue sur mon espace de travail quotidien 👋
 
