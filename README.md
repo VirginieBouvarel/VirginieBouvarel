@@ -1,7 +1,5 @@
-<figure style="background:#000; width:'950px'; height:auto">
-    <img alt="gif" title="gif" src="https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" width="480" height="480" class="giphy-embed">
-    <figcaption><a href="https://giphy.com/gifs/gis-women-in-science-girls-stem-UcQSokPVOjz1eBX9G2">via GIPHY</a></p>
-</figure>
+<img alt="gif" title="gif" src="https://media.giphy.com/media/UcQSokPVOjz1eBX9G2/giphy.gif" width="480" height="480" class="giphy-embed">
+
     
 
 ### Hi, Bienvenue sur mon espace de travail quotidien 👋
