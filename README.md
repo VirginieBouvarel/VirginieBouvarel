@@ -1,4 +1,4 @@
-![Cover](https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif)
+![Cover](https://media.giphy.com/media/4H3Ii5eLChYul9p7NL/giphy.gif)
 
 ### Hi, Bienvenue sur mon espace de travail quotidien 👋
 
