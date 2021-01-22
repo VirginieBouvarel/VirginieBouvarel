@@ -4,7 +4,7 @@
 ## Hi 👋, Bienvenue sur mon espace de travail quotidien 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vbouvarel@lilo.org/)](https://www.linkedin.com/in/vbouvarel@lilo.org/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vbouvarel@lilo.org/)](https://www.twitter.com/vbouvarel@lilo.org/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-green?style=flat&link=vbouvarel@lilo.org/)](vbouvarel@lilo.org/)  
 
-<img alt="gif" title="gif" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/photopea.png" width="1000px" height="300px" class="giphy-embed">
+<img alt="gif" title="gif" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/big-sticker-girls.png" width="1000px" height="300px" class="giphy-embed">
 
 ### Je suis une développeuse hyper stylée en devenir 🙌
 
