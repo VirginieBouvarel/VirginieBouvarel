@@ -2,8 +2,7 @@
 
 
 ### Hi 👋, Bienvenue sur mon espace de travail quotidien 
-[![Gmail Badge](https://img.shields.io/badge/--c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vbouvarel@lilo.org)](mailto:vbouvarel@lilo.org) 
-[![Linkedin Badge](https://img.shields.io/badge/--0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vbouvarel@lilo.org/)](https://www.linkedin.com/in/vbouvarel@lilo.org/) [![Twitter Badge](https://img.shields.io/badge/--00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vbouvarel@lilo.org/)](https://www.twitter.com/vbouvarel@lilo.org/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=vbouvarel@lilo.org/)](vbouvarel@lilo.org/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vbouvarel@lilo.org/)](https://www.linkedin.com/in/vbouvarel@lilo.org/) [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/vbouvarel@lilo.org/)](https://www.twitter.com/vbouvarel@lilo.org/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-green?style=flat&link=vbouvarel@lilo.org/)](vbouvarel@lilo.org/)
 
 ### Je suis une développeuse hyper stylée en devenir 🙌
 
