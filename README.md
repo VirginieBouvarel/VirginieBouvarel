@@ -28,8 +28,8 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
     &nbsp;&nbsp;⏳&nbsp;(0%) Frontend Libraries<br><br>
     
     
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  
-
+<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>   -->
+<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=300px align="right"/>
 ## 🛠 Tech Stack
 
 ✔️\
