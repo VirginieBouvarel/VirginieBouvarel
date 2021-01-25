@@ -6,7 +6,7 @@
 <img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br>
  
 ### 🙋 About Me
-👪👩‍🎓 Je suis mariée, maman, psychologue, artiste à mes heures, développeuse et intégratrice\ 
+👪👩‍🎓 Je suis mariée, maman, psychologue, artiste à mes heures, développeuse et intégratrice\
 ↩️ J'ai commencé mon chemin dans le monde du web il y a 2 ans maintenant et je suis toujours aussi conquise\
 📚 J'améliore mes skills chaque jour à travers des projets perso que je réalise de A à Z sans tuto ni consignes\
 👨‍🏫 J'apprends à écrire un code propre et des programmes bien concus grâce à mon mentor @jeremyMouzin\
@@ -15,16 +15,16 @@
 ⚡ J'adore les series, papoter et coder!<br><br>
 
 ### En ce moment je travaille sur ...
-- La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥. C'est une sorte de travail préparatoire\
-pour un projet plus ambitieux que je souhaite développer avec vue ou react le moment venu.
-- Des challenges front de différents niveaux pour asseoir mes compétences et décourvir de nouvelles "ruses de sioux".<br><br>
+La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥. C'est une sorte de travail préparatoire\
+pour un projet plus ambitieux que je souhaite développer avec vue ou react le moment venu.\
+Des challenges front de différents niveaux pour asseoir mes compétences et décourvir de nouvelles "ruses de sioux".<br><br>
 
 ### 🎓 Challenges et certifications en cours 
 
-- [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :   
+[Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :   
     &nbsp;&nbsp;5 Projects
 
-- [FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) :   
+[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) :   
     &nbsp;&nbsp;✔️(100%) Responsive Web Design   
     &nbsp;&nbsp;⏳&nbsp;(50%) Javascript algorithms and data structures  
     &nbsp;&nbsp;⏳&nbsp;(0%) Frontend Libraries<br><br>
