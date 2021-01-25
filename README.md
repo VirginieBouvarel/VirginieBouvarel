@@ -3,21 +3,19 @@
 
 ## Hi 👋, Bienvenue sur mon espace de travail quotidien 
 
-<img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br><br>
+<img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br>
  
-
 ### Je suis une développeuse hyper stylée en devenir 🙌
 
 - 📚 J'améliore mes hard skills chaque jour à travers des projets perso 
 - 👨‍🏫 J'apprends les bonnes pratiques grâce à mon mentor @jeremyMouzin
-- ⚡ J'adore les series, papoter et coder!<br><br>
+- ⚡ J'adore les series, papoter et coder!<br>
 
-
-## En ce moment je travaille sur ...
+### En ce moment je travaille sur ...
 La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br><br>
 
 
-## Challenges et certifications en cours 🎓
+### Challenges et certifications en cours 🎓
 
 - [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :   
     &nbsp;&nbsp;5 Projects
@@ -25,13 +23,12 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
 - [FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) :   
     &nbsp;&nbsp;✔️(100%) Responsive Web Design   
     &nbsp;&nbsp;⏳&nbsp;(50%) Javascript algorithms and data structures  
-    &nbsp;&nbsp;⏳&nbsp;(0%) Frontend Libraries<br><br>
+    &nbsp;&nbsp;⏳&nbsp;(0%) Frontend Libraries<br>
     
     
-<!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>   -->
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=250px align="right"/>
 
-## 🛠 Tech Stack
+### 🛠 Tech Stack
 
 ✔️\
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=HTML5&logoColor=white)&nbsp;
@@ -51,15 +48,19 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
 👀\
 ![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Angular8](https://img.shields.io/badge/-Angular8-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)<br><br>
+![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)<br>
 
 
-## Github anaytics 
+### Github anaytics 
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=virginiebouvarel&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/virginiebouvarel/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginiebouvarel&layout=compact&theme=tokyonight)](https://github.com/virginiebouvarel/github-readme-stats)<br><br>
+<p align="center">
+<a href="https://github.com/VirginieBouvarel">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=VirginieBouvarel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VirginieBouvarel&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
 
-
-## Me contacter 💬
+### Me contacter 💬
 
 [![Gmail Badge](https://img.shields.io/badge/-vbouvarel@lilo.org-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vbouvarel@lilo.org)](mailto:vbouvarel@lilo.org) [![Linkedin Badge](https://img.shields.io/badge/-virginiebouvarel-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/virginiebouvarel/)](https://www.linkedin.com/in/virginiebouvarel/) [![Twitter Badge](https://img.shields.io/badge/-vbouvarel-blue?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/vbouvarel)](https://twitter.com/vbouvarel)
 
