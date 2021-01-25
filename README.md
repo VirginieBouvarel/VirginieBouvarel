@@ -30,9 +30,9 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
     
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  
 
-## Languages et outils
+## 🛠 Tech Stack
 
-✔\ 
+✔️\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=white)&nbsp;
@@ -53,7 +53,7 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
 ![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)
 
 
-## Un peu de stats 
+## Github anaytics 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=virginiebouvarel&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/virginiebouvarel/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginiebouvarel&layout=compact&theme=tokyonight)](https://github.com/virginiebouvarel/github-readme-stats)<br><br>
 
