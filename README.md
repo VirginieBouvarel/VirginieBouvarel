@@ -5,17 +5,17 @@
 
 <img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br>
  
-### Je suis une développeuse hyper stylée en devenir 🙌
+### About Me 🙌
 
-- 📚 J'améliore mes hard skills chaque jour à travers des projets perso 
-- 👨‍🏫 J'apprends les bonnes pratiques grâce à mon mentor @jeremyMouzin
-- ⚡ J'adore les series, papoter et coder!<br>
+📚 J'améliore mes hard skills chaque jour à travers des projets perso 
+👨‍🏫 J'apprends les bonnes pratiques grâce à mon mentor @jeremyMouzin
+⚡ J'adore les series, papoter et coder!<br>
 
 ### En ce moment je travaille sur ...
 La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br><br>
 
 
-### Challenges et certifications en cours 🎓
+### 🎓 Challenges et certifications 
 
 - [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :   
     &nbsp;&nbsp;5 Projects
