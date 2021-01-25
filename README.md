@@ -24,8 +24,8 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
 
 - [FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) :   
     &nbsp;&nbsp;✔️(100%) Responsive Web Design   
-    &nbsp;&nbsp;⏳(50%) Javascript algorithms and data structures  
-    &nbsp;&nbsp;⏳(0%) Frontend Libraries<br><br>
+    &nbsp;&nbsp;⏳&nbsp;(50%) Javascript algorithms and data structures  
+    &nbsp;&nbsp;⏳&nbsp;(0%) Frontend Libraries<br><br>
     
     
   
