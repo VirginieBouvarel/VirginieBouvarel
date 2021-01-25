@@ -31,7 +31,6 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
   
 ## Languages et outils
 - ✔ - 
-
 <img align="center" alt="HTML5" title="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="center" alt="CSS3" title="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="center" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img align="center" alt="JavaScript" title="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="center" alt="Visual Studio Code" title="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> <img align="center" alt="Git" title="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="center" alt="Github" title="Github" width="26px" src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/> <img align="center" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <img align="center" alt="Photopéa" title="Photopéa" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/photopea.png" /> <img align="center" alt="Figma" title="Figma" height="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/figma.svg" />  
 
@@ -45,9 +44,8 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
 
 
 ## Un peu de stats 
-[![React Bagde](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)]
-[![Github stats](https://github-readme-stats.vercel.app/api?username=virginiebouvarel&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/virginiebouvarel/github-readme-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginiebouvarel&layout=compact&theme=tokyonight)](https://github.com/virginiebouvarel/github-readme-stats)<br><br>
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=virginiebouvarel&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/virginiebouvarel/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginiebouvarel&layout=compact&theme=tokyonight)](https://github.com/virginiebouvarel/github-readme-stats)<br><br>
 
 
 ## Me contacter 💬
