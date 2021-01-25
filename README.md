@@ -39,7 +39,7 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
 
 
 - 👀 - 
-<img align="center" alt="Angular 8" title="Angular 8" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/angular.png" /> <img align="center" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/node.png" /> <img align="center" alt="MongoDB" title="MongoDB" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/mongoDB.png" /> <img align="center" alt="php" title="php" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/php.png" /> <img align="center" alt="mysql" title="mysql" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/mysql-white.png" /> <br><br>
+<img align="center" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/node.png" /> <img align="center" alt="Angular 8" title="Angular 8" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/angular.png" /> <img align="center" alt="php" title="php" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/php.png" /> <br><br>
 
 
 
