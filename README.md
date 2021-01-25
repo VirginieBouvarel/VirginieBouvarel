@@ -3,7 +3,7 @@
 
 ## Hi 👋, Bienvenue sur mon espace de travail quotidien 
 
-<img alt="gif" title="gif" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/big-sticker-girls.png" width="1000px" height="300px" class="giphy-embed"><br><br>
+<img alt="gif" title="gif" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif" width="1000px" height="300px" class="giphy-embed"><br><br>
 
 
 ### Je suis une développeuse hyper stylée en devenir 🙌
