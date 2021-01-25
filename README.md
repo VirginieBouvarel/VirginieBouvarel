@@ -28,19 +28,28 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
     &nbsp;&nbsp;⏳&nbsp;(0%) Frontend Libraries<br><br>
     
     
-  
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  
 ## Languages et outils
-- ✔ - 
-<img align="center" alt="HTML5" title="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="center" alt="CSS3" title="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> <img align="center" alt="Sass" title="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" /> <img align="center" alt="JavaScript" title="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> <img align="center" alt="Visual Studio Code" title="VS Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
-<img align="center" alt="Github" title="Github" width="26px" src="https://img.icons8.com/ios-filled/50/ffffff/github.png"/> <img align="center" alt="Terminal" title="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /> <img align="center" alt="Photopéa" title="Photopéa" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/photopea.png" /> <img align="center" alt="Figma" title="Figma" height="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/figma.svg" />  
 
-- ⏳   - 
-<img align="center" alt="React" title="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" /> <img align="center" alt="Vue.js" title="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" /> <img align="center" alt="Jasmine" title="Jasmine" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/jasmine.png" /> <img align="center" alt="Jest" title="Jest" width="23px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/jest.png" />
-
-
-- 👀 - 
-<img align="center" alt="Node.js" title="Node.js" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/node.png" /> <img align="center" alt="Angular 8" title="Angular 8" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/angular.png" /> <img align="center" alt="php" title="php" width="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/php.png" /> <br><br>
-
+✔ - 
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript&logoColor=white)\
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=powershell&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)\
+⏳   -
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=white)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue&logoColor=white)&nbsp;
+![Jasmine](https://img.shields.io/badge/-Jasmine-05122A?style=flat&logo=jasmine&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=white)\
+👀 - 
+![Node.js](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
+![Angular8](https://img.shields.io/badge/-Angular8-05122A?style=flat&logo=angular&logoColor=white)&nbsp;
+![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)\
 
 
 ## Un peu de stats 
