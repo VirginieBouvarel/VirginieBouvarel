@@ -29,7 +29,8 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
     
     
 <!-- <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>   -->
-<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=300px align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=250px align="right"/>
+
 ## 🛠 Tech Stack
 
 ✔️\
@@ -50,7 +51,7 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
 👀\
 ![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Angular8](https://img.shields.io/badge/-Angular8-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)<br><br>
 
 
 ## Github anaytics 
