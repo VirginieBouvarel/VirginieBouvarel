@@ -55,8 +55,8 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
 
 <p>
 <a href="https://github.com/VirginieBouvarel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VirginieBouvarel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirginieBouvarel&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VirginieBouvarel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=My%20Github%20Statistics"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VirginieBouvarel&layout=compact&langs_count=8&theme=tokyonight&custom_title=My%20programming%20Langages"/>
 </a>
 </p>
 
