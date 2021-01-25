@@ -29,9 +29,10 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
     
     
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>  
+
 ## Languages et outils
 
-✔ - 
+✔\ 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=Sass&logoColor=white)&nbsp;
@@ -41,15 +42,15 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥<br
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=white)\
-⏳   -
+⏳\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vue&logoColor=white)&nbsp;
 ![Jasmine](https://img.shields.io/badge/-Jasmine-05122A?style=flat&logo=jasmine&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest&logoColor=white)\
-👀 - 
+👀\
 ![Node.js](https://img.shields.io/badge/-Node-05122A?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Angular8](https://img.shields.io/badge/-Angular8-05122A?style=flat&logo=angular&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)\
+![Php](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php&logoColor=white)
 
 
 ## Un peu de stats 
