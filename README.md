@@ -2,8 +2,7 @@
 
 
 ## Hi 👋, Bienvenue sur mon espace de travail quotidien 
-![Profile Views](http://img.shields.io/badge/Vues%20du%20profil-1376-green) 
-![Lines of code](https://img.shields.io/badge/Depuis%20Hello%20World%2C%20j%27ai%20%C3%A9crit-2.8%20million%20Lignes%20de%20code-green)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=VirginieBouvarel.VirginieBouvarel)
 <img alt="gif" title="gif" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/big-sticker-girls.png" width="1000px" height="300px" class="giphy-embed">
 
 ### Je suis une développeuse hyper stylée en devenir 🙌
@@ -41,7 +40,7 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥
 ___
 
 ## Un peu de stats 
-<p align=left> <img src=https://komarev.com/ghpvc/?username=virginiebouvarel alt=virginiebouvarel /> </p>
+
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=virginiebouvarel&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/virginiebouvarel/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=virginiebouvarel&layout=compact&theme=tokyonight)](https://github.com/virginiebouvarel/github-readme-stats)
