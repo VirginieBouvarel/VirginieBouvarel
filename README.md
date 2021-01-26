@@ -19,6 +19,8 @@ La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥. C
 pour un projet plus ambitieux que je souhaite développer avec vue ou react le moment venu.\
 Des challenges front de différents niveaux pour asseoir mes compétences et décourvir de nouvelles "ruses de sioux".<br><br>
 
+<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=250px align="right"/>
+
 ### 🎓 Challenges et certifications en cours 
 
 [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :   
@@ -30,7 +32,7 @@ Des challenges front de différents niveaux pour asseoir mes compétences et dé
     &nbsp;&nbsp;⏳&nbsp;(0%) Frontend Libraries<br><br>
     
     
-<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=250px align="right"/>
+
 
 ### 🛠 Ma Tech Stack
 
