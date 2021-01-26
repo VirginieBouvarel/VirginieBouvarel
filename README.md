@@ -6,7 +6,7 @@
 <img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br>
  
 ###  Et là qui va là ?
-🙋 Je suis une femme, 👪 une maman, 👩‍💻 une développeuse hyper stylée en devenir et 👩‍🎨 une artiste du dimanche\
+🙋 Je suis une femme, 👪 une maman, 🚀une développeuse hyper stylée en devenir et 👩‍🎨 une artiste du dimanche\
 ↩️ J'ai commencé mon chemin dans le monde du web il y a 2 ans maintenant et je suis toujours aussi conquise\
 📚 J'améliore mes skills chaque jour à travers des projets perso que je réalise de A à Z sans tuto ni consignes\
 👨‍🏫 J'apprends à écrire un code propre et des programmes bien concus grâce à mon mentor @jeremyMouzin\
