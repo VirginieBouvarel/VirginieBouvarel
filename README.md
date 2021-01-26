@@ -5,13 +5,13 @@
 
 <img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br>
  
-### 🙋 About Me
-👪👩‍🎓 Je suis mariée, maman, psychologue, artiste à mes heures, développeuse et intégratrice\
+###  Et là qui va là ?
+🙋 Je suis une femme, 👪 une maman, 👩‍💻 une développeuse hyper stylée en devenir et 👩‍🎨 une artiste du dimanche\
 ↩️ J'ai commencé mon chemin dans le monde du web il y a 2 ans maintenant et je suis toujours aussi conquise\
 📚 J'améliore mes skills chaque jour à travers des projets perso que je réalise de A à Z sans tuto ni consignes\
 👨‍🏫 J'apprends à écrire un code propre et des programmes bien concus grâce à mon mentor @jeremyMouzin\
 🔍 J'adore parcourir les recoins du web pour trouver des tonnes de tips et de bonnes pratiques\
-🏔 Mon challenge préféré est d'obtenir une interface à la fois belle ET fluide\
+🏔 Trouver le bon équilibre entre esthétique et fonctionnel est mon challenge préféré\
 ⚡ J'adore les series, papoter et coder!<br><br>
 
 ### En ce moment je travaille sur ...
