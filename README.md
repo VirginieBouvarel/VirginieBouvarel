@@ -51,7 +51,7 @@ Des challenges front de différents niveaux pour asseoir mes compétences et dé
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)&nbsp;
-![TheForce](https://img.shields.io/badge/-<img align="center" alt="vador" title="vador" height="26px" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/vador.png"/> The%20Force-181717?style=flat)\
+![TheForce](https://img.shields.io/badge/-The%20Force-181717?style=flat&logo=data:"https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/figma.svg")\
 👀\
 ![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Angular8](https://img.shields.io/badge/-Angular8-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
