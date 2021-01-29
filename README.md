@@ -9,24 +9,24 @@
 👨‍🏫 J'apprends à écrire un code propre et des programmes bien concus grâce à mon mentor @jeremyMouzin\
 🔍 J'adore parcourir les recoins du web pour trouver des tonnes de tips et de bonnes pratiques\
 🏔 Trouver le bon équilibre entre esthétique et fonctionnel est mon challenge préféré\
-⚡ J'adore les series, papoter et coder!<br>
+⚡ J'adore les series, papoter et coder!<br><br>
 
 ### 💭 En ce moment je travaille sur ...
 La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥. C'est une sorte de travail préparatoire\
 pour un projet plus ambitieux que je souhaite développer avec vue ou react le moment venu.\
-Des challenges front de différents niveaux pour asseoir mes compétences et décourvir de nouvelles "ruses de sioux".<br>
+Des challenges front de différents niveaux pour asseoir mes compétences et décourvir de nouvelles "ruses de sioux".<br><br>
 
-<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=250px align="right"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/>
 
 ### 🎓 Challenges et certifications en cours 
 [FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ⏳&nbsp;(50%) JS / ⏳&nbsp;(0%) Front Lib
 
-[Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects<br> 
+[Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects<br><br> 
 
   ### 💯 Derniers projets
  [Qovery](https://virginiebouvarel.github.io/integrations/qovery/)\
  [Pinball breakout](http://breakout.virginiebouvarel.fr)\
- [Advanced Calculator](https://virginiebouvarel.github.io/projets_perso/calculator/)
+ [Advanced Calculator](https://virginiebouvarel.github.io/projets_perso/calculator/)<br><br>
 
 
 ### 🛠 Ma Tech Stack
@@ -49,7 +49,7 @@ Des challenges front de différents niveaux pour asseoir mes compétences et dé
 👀\
 ![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)&nbsp;
 ![Angular8](https://img.shields.io/badge/-Angular8-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)<br>
+![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)<br><br>
 
 
 ### Github anaytics 
