@@ -1,6 +1,3 @@
-
-
-
 ## Hi 👋, Bienvenue sur mon espace de travail quotidien 
 
 <img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br>
@@ -23,13 +20,10 @@ Des challenges front de différents niveaux pour asseoir mes compétences et dé
 
 ### 🎓 Challenges et certifications en cours 
 
-[Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :   
-    &nbsp;&nbsp;5 Projects
+[Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects  
+   
+[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) :   ✔️(100%) RWD / ⏳&nbsp;(50%) JS algorithms and data structures / ⏳&nbsp;(0%) Front Lib<br><br>  
 
-[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) :   
-    &nbsp;&nbsp;✔️(100%) Responsive Web Design   
-    &nbsp;&nbsp;⏳&nbsp;(50%) Javascript algorithms and data structures  
-    &nbsp;&nbsp;⏳&nbsp;(0%) Frontend Libraries<br><br>
     
     
 
