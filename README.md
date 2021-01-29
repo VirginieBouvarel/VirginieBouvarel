@@ -22,7 +22,7 @@ Des challenges front de différents niveaux pour asseoir mes compétences et dé
 
 [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects  
    
-[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) :   ✔️(100%) RWD / ⏳&nbsp;(50%) JS algorithms and data structures / ⏳&nbsp;(0%) Front Lib<br><br>  
+[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ⏳&nbsp;(50%) JS / ⏳&nbsp;(0%) Front Lib<br><br>  
 
     
     
