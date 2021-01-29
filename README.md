@@ -11,7 +11,7 @@
 🏔 Trouver le bon équilibre entre esthétique et fonctionnel est mon challenge préféré\
 ⚡ J'adore les series, papoter et coder!<br><br>
 
-### En ce moment je travaille sur ...
+### 💭 En ce moment je travaille sur ...
 La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥. C'est une sorte de travail préparatoire\
 pour un projet plus ambitieux que je souhaite développer avec vue ou react le moment venu.\
 Des challenges front de différents niveaux pour asseoir mes compétences et décourvir de nouvelles "ruses de sioux".<br><br>
@@ -19,13 +19,17 @@ Des challenges front de différents niveaux pour asseoir mes compétences et dé
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=250px align="right"/>
 
 ### 🎓 Challenges et certifications en cours 
+ 
+[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ⏳&nbsp;(50%) JS / ⏳&nbsp;(0%) Front Lib
 
-[Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects  
-   
-[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ⏳&nbsp;(50%) JS / ⏳&nbsp;(0%) Front Lib<br><br>  
+[Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects<br><br>  
 
-    
-    
+ 
+ ### 💯 Derniers projets
+ 
+ [Qovery](https://virginiebouvarel.github.io/integrations/qovery/)\
+ [Pinball breakout](http://breakout.virginiebouvarel.fr)\
+ [Advanced Calculator](https://virginiebouvarel.github.io/projets_perso/calculator/)
 
 
 ### 🛠 Ma Tech Stack
