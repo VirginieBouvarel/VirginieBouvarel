@@ -19,13 +19,11 @@ Des challenges front de différents niveaux pour asseoir mes compétences et dé
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/>
 
 ### 🎓 Challenges et certifications en cours 
-[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ⏳&nbsp;(50%) JS / ⏳&nbsp;(0%) Lib
-
+[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ⏳&nbsp;(50%) JS / ⏳&nbsp;(0%) Libs
 [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects<br><br> 
 
   ### 💯 Derniers projets
-  
- [movieDB](https://virginiebouvarel.github.io/projets_perso/movieDB_sandbox/)<br><br>
+ [movieDB](https://virginiebouvarel.github.io/projets_perso/movieDB_sandbox/)\
  [Qovery](https://virginiebouvarel.github.io/integrations/qovery/)\
  [Pinball breakout](http://breakout.virginiebouvarel.fr)\
  [Advanced Calculator](https://virginiebouvarel.github.io/projets_perso/calculator/)<br><br>
