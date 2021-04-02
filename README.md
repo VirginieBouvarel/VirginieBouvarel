@@ -6,7 +6,7 @@
 🙋 Je suis une femme, 👪 une maman, 🚀une développeuse hyper stylée en devenir et 👩‍🎨 une artiste du dimanche\
 ↩️ J'ai commencé mon chemin dans le monde du web il y a 2 ans maintenant et je suis toujours aussi conquise\
 📚 J'améliore mes skills chaque jour à travers des projets perso que je réalise de A à Z sans tuto ni consignes\
-👨‍🏫 J'apprends à écrire un code propre et des programmes bien concus grâce à mon mentor @jeremyMouzin\
+👨‍🏫 J'apprends à écrire un code propre et des programmes bien concus grâce à mon mentor\
 🔍 J'adore parcourir les recoins du web pour trouver des tonnes de tips et de bonnes pratiques\
 🏔 Trouver le bon équilibre entre esthétique et fonctionnel est mon challenge préféré\
 ⚡ J'adore les series, papoter et coder!<br><br>
@@ -19,7 +19,7 @@ Des challenges front de différents niveaux pour asseoir mes compétences et dé
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/>
 
 ### 🎓 Challenges et certifications en cours 
-[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ⏳&nbsp;(50%) JS / ⏳&nbsp;(0%) Front Lib
+[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ⏳&nbsp;(50%) JS / ⏳&nbsp;(0%) Lib
 
 [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects<br><br> 
 
