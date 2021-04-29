@@ -12,9 +12,16 @@
 ⚡ J'adore les series, papoter et coder!<br><br>
 
 ### 💭 En ce moment je travaille sur ...
-La programmation asynchrone à travers un projet utilisant l'API MovieDB 🎥. C'est une sorte de travail préparatoire\
-pour un projet plus ambitieux que je souhaite développer avec vue ou react le moment venu.\
-Des challenges front de différents niveaux pour asseoir mes compétences et décourvir de nouvelles "ruses de sioux".<br><br>
+Un projet open source initié par la communauté iters et Shirley Almosni-Chiche.\
+Plusieurs projets sont en cours de production : une plateforme de mise en relation mentors/mentorés, une plateforme de e-learning et une appli mobile.\
+J'ai la chance de faire partie de l'équipe front qui travaille sur la plateforme de mentorat. 
+Côté techno : React/Next.js/TypeScript/Docker.\
+Zone de confort : ⛔ .\
+Montée en compétence : 🚀<br><br>
+
+.. Et en parallèle je construis le site statique d'une entreprise d'import/export.\
+Beaucoup d'accompagnement client sur ce projet 👌, analyse des besoins, aspect industriel et business à prendre en compte pour le design à adopter.\
+
 
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/>
 
