@@ -26,7 +26,7 @@ Beaucoup d'accompagnement client sur ce projet 👌, analyse des besoins, aspect
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/>
 
 ### 🎓 Challenges et certifications en cours 
-[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ⏳&nbsp;(50%) JS / ⏳&nbsp;(0%) Libs
+[FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ⏳&nbsp;(50%) JS / ⏳&nbsp;(0%) Libs\
 [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects<br><br> 
 
   ### 💯 Derniers projets
