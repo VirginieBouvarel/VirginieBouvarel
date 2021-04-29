@@ -20,7 +20,7 @@ Zone de confort : ⛔\
 Montée en compétence : 🚀<br>
 
 .. Et en parallèle je construis le site statique d'une entreprise d'import/export.\
-Beaucoup d'accompagnement client sur ce projet 👌, analyse des besoins, aspect industriel et business à prendre en compte pour le design à adopter.\
+Beaucoup d'accompagnement client sur ce projet 👌, analyse des besoins, aspect industriel et business à prendre en compte pour le design à adopter.<br><br>
 
 
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/>
