@@ -14,9 +14,9 @@
 ### 💭 En ce moment je travaille sur ...
 Un projet open source initié par la communauté iters et Shirley Almosni-Chiche.\
 Plusieurs projets sont en cours de production : une plateforme de mise en relation mentors/mentorés, une plateforme de e-learning et une appli mobile.\
-J'ai la chance de faire partie de l'équipe front qui travaille sur la plateforme de mentorat.\ 
+J'ai la chance de faire partie de l'équipe front qui travaille sur la plateforme de mentorat.\
 Côté techno : React/Next.js/TypeScript/Docker.\
-Zone de confort : ⛔ .\
+Zone de confort : ⛔\
 Montée en compétence : 🚀<br>
 
 .. Et en parallèle je construis le site statique d'une entreprise d'import/export.\
