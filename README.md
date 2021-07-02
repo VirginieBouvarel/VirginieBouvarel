@@ -30,10 +30,10 @@ Beaucoup d'accompagnement client sur ce projet 👌, analyse des besoins, aspect
 [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects<br><br> 
 
   ### 💯 Derniers projets
- [React ToDoList](https://virginiebouvarel.github.io/react-todo-list/)\
- [movieDB](https://virginiebouvarel.github.io/projets_perso/movieDB_sandbox/)\
- [Qovery](https://virginiebouvarel.github.io/integrations/qovery/)\
- [Pinball breakout](http://breakout.virginiebouvarel.fr)<br><br>
+ [React movieDB](https://github.com/VirginieBouvarel/react-moviedb)\
+ [React ToDoList](https://github.com/VirginieBouvarel/react-todo-list)\
+ [Qovery](https://github.com/VirginieBouvarel/integrations/tree/main/qovery)\
+ [Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout)<br><br>
 
 
 ### 🛠 Ma Tech Stack
