@@ -29,14 +29,15 @@ Beaucoup d'accompagnement client sur ce projet 👌, analyse des besoins, aspect
 [FreeCodeCamp Certifications](https://www.freecodecamp.org/virbaya) : ✔️(100%) RWD / ✔️(100%) JS / ⏳&nbsp;(50%) Libs\
 [Frontend Mentor Challenges](https://www.frontendmentor.io/profile/VirginieBouvarel/solutions) :  5 Projects<br><br> 
 
-  ### 💯 Derniers projets
+  ### 💯 Queques projets
  [React movieDB](https://github.com/VirginieBouvarel/react-moviedb)\
  [React ToDoList](https://github.com/VirginieBouvarel/react-todo-list)\
  [Vue Airvault](https://github.com/VirginieBouvarel/vue-airvault)\
  [JS MovieDB](https://github.com/VirginieBouvarel/projets_perso/tree/main/movieDB_sandbox)\
- [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout)<br><br>
+ [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout)\
+ [FullStack Riasec](https://github.com/VirginieBouvarel/projets_perso/tree/main/riasec)<br><br>
  
- ### 🎨 Dernières intégrations
+ ### 🎨 Intégrations
  [Qovery](https://github.com/VirginieBouvarel/integrations/tree/main/qovery)\
  [3D profilCard](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/newbie/profil_card)\
  [Insure Landing page](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/junior/insure)<br><br>
