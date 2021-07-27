@@ -32,8 +32,14 @@ Beaucoup d'accompagnement client sur ce projet 👌, analyse des besoins, aspect
   ### 💯 Derniers projets
  [React movieDB](https://github.com/VirginieBouvarel/react-moviedb)\
  [React ToDoList](https://github.com/VirginieBouvarel/react-todo-list)\
+ [Vue Airvault](https://github.com/VirginieBouvarel/vue-airvault)\
+ [JS MovieDB](https://github.com/VirginieBouvarel/projets_perso/tree/main/movieDB_sandbox)\
+ [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout)<br><br>
+ 
+ ### 🎨 Dernières intégrations
  [Qovery](https://github.com/VirginieBouvarel/integrations/tree/main/qovery)\
- [Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout)<br><br>
+ [3D profilCard](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/newbie/profil_card)\
+ [Insure Landing page](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/junior/insure)<br><br>
 
 
 ### 🛠 Ma Tech Stack
