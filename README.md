@@ -40,7 +40,7 @@ Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et archite
 ![Laravel](https://img.shields.io/badge/-Laravel-F4392E?style=flat&logo=phlaravel&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?style=flat&logo=powershell&logoColor=white)\
+![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?style=flat&logo=powershell&logoColor=white)
 
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/>
 
