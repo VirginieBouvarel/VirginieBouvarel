@@ -18,8 +18,8 @@ puis j'analyse la feature à produire et implémente le code front.\
 Parfois, je pousse le dev jusqu'aux portes du back en créant les routes et controller dont j'ai besoin.\
 Ou je m'attèle à des refactoring transversaux et tente d'améliorer la maintenabilité de notre application\
 en faisant la chasse à la complexité accidentelle et surtout cognitive 🤯.\
-Ce que j'aime dans mon taf actuel c'est la marge de manoeuvre qui m'ait laissée, la confiance qui m'ait faite\
-quand à la manière d'implémenter ma solution et avoir la chance de travailler sur de beaux visuels.<br><br>
+Ce que j'aime, c'est la marge de manoeuvre qui m'ait laissée, la confiance qui m'ait faite quand à la manière\
+d'implémenter ma solution et avoir la chance de travailler sur de beaux visuels.<br><br>
 
 ### 🛠 Ma Stack au quotidien
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
