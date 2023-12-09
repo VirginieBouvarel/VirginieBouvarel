@@ -54,7 +54,7 @@ Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et archite
 
 ### 💯 Quelques projets personnels (2020 - 2021)
 En React : [React movieDB](https://github.com/VirginieBouvarel/react-moviedb) [React ToDoList](https://github.com/VirginieBouvarel/react-todo-list)\
-En JS Natif : [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout) [JS MovieDB](https://github.com/VirginieBouvarel/projets_perso/tree/main/js-moviedb)\
+En JS Natif : [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout) [JS MovieDB](https://github.com/VirginieBouvarel/projets_perso/tree/main/movieDB_sandbox)\
 Intégrations : [Qovery](https://github.com/VirginieBouvarel/integrations/tree/main/qovery) [3D profilCard](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/newbie/profil_card) [Insure Landing page](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/junior/insure)<br><br>
 
 ### 📈 Github anaytics 
