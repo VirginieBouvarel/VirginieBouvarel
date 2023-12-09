@@ -31,7 +31,7 @@ Comment appliquer les Design Pattern dans mon quotidien de front en vue.js\
 Comment centraliser la gestion des erreurs dans notre application
 ### Tutos:
 Pour pousser mes compétences en Vue.js: [ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) proposé en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
-Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)
+Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)<br><br>
 
 ### 🛠 Ma Stack au quotidien
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
