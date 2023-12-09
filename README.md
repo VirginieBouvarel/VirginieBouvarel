@@ -5,24 +5,25 @@
 ### 🙃 About me
 🙋 Je suis une femme, 👪 une maman, 🚀une développeuse passionnée et la "happy manager" de mon équipe 😁.\
 ↩️ J'ai commencé mon chemin dans le monde du web début 2019 et je suis toujours aussi conquise.\
-✨ Je trouve dans le dev, à la fois: le challenge intellectuel et technique, le contact avec le graphisme et la couleur,\
- et la possibilité de faire la différence.\
+🎯 Je trouve dans le dev, à la fois: le challenge intellectuel, le contact avec le graphisme,et la possibilité de faire la différence.\
 📚 J'améliore mes skills chaque jour à travers une veille active et la lecture des fondamentaux (tonton bob et al.😉).\
-👨‍🏫 Je mets un point d'honneur à appliquer au quotidien et à transmetre les bonnes pratiques qui m'ont été transmises en mentorat\
-🏔  Allier une esthétique fluide et un code propre est mon challenge préféré.\
+👥 Je mets un point d'honneur à appliquer au quotidien et à transmettre les bonnes pratiques qui m'ont été transmises en mentorat\
+✨ Allier une esthétique fluide et un code propre est mon challenge préféré.\
 ⚡ J'adore les series, papoter et coder!<br><br>
 
-### Ce que je code actuellement
+### 💻 Ce que je code actuellement
 Je travaille sur un outil Saas dans le domaine de l'immobilier.\
 Je suis en charge de toute la partie Frontend du projet au sein d'une équipe de 3 devs.\
 Je coopère avec notre graphiste pour évaluer la faisabilité des futures fonctionnalités et réalise l'intégration des maquettes,\
-puis j'analyse la feature à produire et implémente le code.\
-Quand l'occasion m'en ait donnée, je pousse le dev jusqu'aux portes du back en créant les routes et controller dont j'ai besoin\
+puis j'analyse la feature à produire et implémente le code front.\
+Quand mes collègues sont sous l'eau, je pousse le dev jusqu'aux portes du back en créant les routes et controller dont j'ai besoin\
 voire même en définissant quelques relations ou migrations.\
+Quand le planning le permet je m'attèle à des refactoring transversaux et tente d'améliorer la maintenabilité de notre application\
+en faisant la chasse à la complexité accidentelle et surtout cognitive 🤯.\
 Ce que j'aime dans mon taf actuel c'est la marge de manoeurvre qui m'ait laissée et la confiance qui m'ait faite\
 quand à la manière d'implémenter ma solution et aussi d'avoir la chance de travailler sur de beaux visuels.<br><br>
 
-###  Mes intérêts et questions du moment
+### 🔎 Mes intérêts et questions du moment
 Lectures
 Head First - Les design patterns - Eric Freeman et Kathy Sierra
 Design patterns - Catalogue de modèles de conception réutilisables - de Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères
