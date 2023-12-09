@@ -24,20 +24,20 @@ Ce que j'aime dans mon taf actuel c'est la marge de manoeurvre qui m'ait laissé
 quand à la manière d'implémenter ma solution et aussi d'avoir la chance de travailler sur de beaux visuels.<br><br>
 
 ### 🔎 Mes intérêts et questions du moment
-Lectures
-Head First - Les design patterns - Eric Freeman et Kathy Sierra
-Design patterns - Catalogue de modèles de conception réutilisables - de Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères
+### Lectures
+Head First - Les design patterns - Eric Freeman et Kathy Sierra\
+Design patterns - Catalogue de modèles de conception réutilisables - de Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères<br>
 
-Articles, vidéos, recherches :
-Comment arrêter de faire du code trop "smart" (- DRY et + KISS)
-Comment appliquer les Design Pattern dans mon quotidien de front en vue.js ? 
-Comment centraliser la gestion des erreurs dans notre application ?
+### Recherches (articles, vidéos...) 
+Comment arrêter de faire du code trop "smart" (- DRY et + KISS)\
+Comment appliquer les Design Pattern dans mon quotidien de front en vue.js ?\ 
+Comment centraliser la gestion des erreurs dans notre application ?\
 
-Tutos
-Pousser mes compétences en Vue.js
-[ The Vue 3 Masterclass: proposé en API Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10](https://vueschool.io/courses/the-vuejs-3-master-class)\
-Mon dernier investissement 🤩
-[Le cursus de Pierre Criulanscy: TDD et architecture hexagonale dans le frontend en pratique : https://www.craftacademy.fr](https://www.craftacademy.fr/)\
+### Tutos
+Pousser mes compétences en Vue.js\
+[ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) proposé en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
+Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩
+[TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)\
 
 
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/> // Changer image
