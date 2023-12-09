@@ -21,18 +21,6 @@ en faisant la chasse à la complexité accidentelle et surtout cognitive 🤯.\
 Ce que j'aime dans mon taf actuel c'est la marge de manoeuvre qui m'ait laissée, la confiance qui m'ait faite\
 quand à la manière d'implémenter ma solution et avoir la chance de travailler sur de beaux visuels.<br><br>
 
-### 🔎 Mes intérêts et questions du moment
-### Lectures
-Head First - Les design patterns - Eric Freeman et Kathy Sierra\
-Design patterns - Catalogue de modèles de conception réutilisables - de Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères\
-### Recherches (articles, vidéos...)
-Comment arrêter de faire du code trop "smart" (- DRY et + KISS)\
-Comment appliquer les Design Pattern dans mon quotidien de front en vue.js\
-Comment centraliser la gestion des erreurs dans notre application
-### Tutos:
-Pour pousser mes compétences en Vue.js: [ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) proposé en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
-Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)<br><br>
-
 ### 🛠 Ma Stack au quotidien
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-2A73C5?style=flat&logo=vuetify&logoColor=white)&nbsp;
@@ -51,25 +39,26 @@ Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et archite
 ![Angular8](https://img.shields.io/badge/-Angular8-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)<br>
 
-
-  ### 💯 Mes projets personnels
-  // Ajouter les années en face (anciens projets perso)
-  // Ajouter les logos des langages à côté ou au dessus (projets react, projet js natifs, projet fullstack
- [React movieDB](https://github.com/VirginieBouvarel/react-moviedb)\
- [React ToDoList](https://github.com/VirginieBouvarel/react-todo-list)\
- [JS MovieDB](https://github.com/VirginieBouvarel/projets_perso/tree/main/movieDB_sandbox)\  // Enelever ?
- [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout)<br><br>
-
- 
- ### 🎨 Intégrations
- [Qovery](https://github.com/VirginieBouvarel/integrations/tree/main/qovery)\
- [3D profilCard](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/newbie/profil_card)\
- [Insure Landing page](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/junior/insure)<br><br>
+### 🔎 Mes intérêts et questions du moment
+### Lectures
+Head First - Les design patterns - Eric Freeman et Kathy Sierra\
+Design patterns - Catalogue de modèles de conception réutilisables - de Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères\
+### Recherches (articles, vidéos...)
+Comment arrêter de faire du code trop "smart" (- DRY et + KISS)\
+Comment appliquer les Design Pattern dans mon quotidien de front en vue.js\
+Comment centraliser la gestion des erreurs dans notre application
+### Tutos:
+Pour pousser mes compétences en Vue.js: [ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) proposé en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
+Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)<br><br>
 
 
- 
+### 💯 Quelques projets personnels
+En React : [React movieDB](https://github.com/VirginieBouvarel/react-moviedb) [React ToDoList](https://github.com/VirginieBouvarel/react-todo-list)\
+En JS Natif : [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout)\
+Intégrations : [Qovery](https://github.com/VirginieBouvarel/integrations/tree/main/qovery) [3D profilCard](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/newbie/profil_card) [Insure Landing page](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/junior/insure)<br><br>
+// Ajouter les années en face (anciens projets perso)
+// Ajouter les logos des langages à côté ou au dessus (projets react, projet js natifs, projet fullstack
 
- 
 ### Github anaytics 
 <p>
 <a href="https://github.com/VirginieBouvarel">
