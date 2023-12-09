@@ -35,8 +35,6 @@ Comment centraliser la gestion des erreurs dans notre application\
 Pour pousser mes compétences en Vue.js: [ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) proposé en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
 Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)
 
-<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/> // Changer image
-
 ### 🛠 Ma Stack au qotidien
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-2A73C5?style=flat&logo=vuetify&logoColor=white)&nbsp;
@@ -45,6 +43,8 @@ Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et archite
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?style=flat&logo=powershell&logoColor=white)\
+
+<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/>
 
 ### 👀 Technos déjà utilisées ou sur lesquelles je me suis formée 
 ![React](https://img.shields.io/badge/-React-37BEFF?style=flat&logo=react&logoColor=white)&nbsp;
