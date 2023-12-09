@@ -59,7 +59,7 @@ Intégrations : [Qovery](https://github.com/VirginieBouvarel/integrations/tree/m
 // Ajouter les années en face (anciens projets perso)
 // Ajouter les logos des langages à côté ou au dessus (projets react, projet js natifs, projet fullstack
 
-### Github anaytics 
+### 📈 Github anaytics 
 <p>
 <a href="https://github.com/VirginieBouvarel">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=VirginieBouvarel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=My%20Github%20Statistics"/>
@@ -67,11 +67,11 @@ Intégrations : [Qovery](https://github.com/VirginieBouvarel/integrations/tree/m
 </a>
 </p>
 
-### Me contacter 💬
+### ☎️ Me contacter 
 [![Gmail Badge](https://img.shields.io/badge/-vbouvarel@lilo.org-DD0031?style=flat&logo=Gmail&logoColor=white&link=mailto:vbouvarel@lilo.org)](mailto:vbouvarel@lilo.org) [![Linkedin Badge](https://img.shields.io/badge/-virginiebouvarel-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/virginiebouvarel/)](https://www.linkedin.com/in/virginiebouvarel/) [![Twitter Badge](https://img.shields.io/badge/-vbouvarel-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/vbouvarel)](https://twitter.com/vbouvarel) <br><br>
 
 
-### Pour le fun : Mon tout tout premier site ! 🤩🙈
+### 🤩🙈 Pour le fun : Mon tout tout premier site ! 
  [FullStack Riasec - Titre RNCP](https://github.com/VirginieBouvarel/projets_perso/tree/main/riasec)<br><br>
 
 
