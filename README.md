@@ -28,7 +28,7 @@ Design patterns - Catalogue de modèles de conception réutilisables - de Gamma/
 ### Recherches (articles, vidéos...)
 Comment arrêter de faire du code trop "smart" (- DRY et + KISS)\
 Comment appliquer les Design Pattern dans mon quotidien de front en vue.js\
-Comment centraliser la gestion des erreurs dans notre application\
+Comment centraliser la gestion des erreurs dans notre application
 ### Tutos:
 Pour pousser mes compétences en Vue.js: [ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) proposé en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
 Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)
