@@ -5,9 +5,9 @@
 ### 🙃 About me
 🙋 Je suis une femme, 👪 une maman, 🚀une développeuse passionnée et la "happy manager" de mon équipe 😁.\
 ↩️ J'ai commencé mon chemin dans le web début 2019 et je suis toujours aussi conquise.\
-🎯 Je trouve dans le dev, à la fois: le challenge intellectuel, le contact avec le graphisme et la possibilité de faire la différence.\
-📚 J'améliore mes skills chaque jour à travers une veille active et la lecture des fondamentaux (tonton bob et al.😉).\
-👥 Je mets un point d'honneur à appliquer au quotidien et à transmettre les bonnes pratiques qui m'ont été transmises en mentorat.\
+🎯 Je trouve dans le dev: le challenge intellectuel, le graphisme et la possibilité de faire la différence.\
+👥 J'applique au quotidien et aime transmettre les bonnes pratiques qui m'ont été enseignées en mentorat.\
+📚 Je mène une veille active et lis les fondamentaux (tonton bob et al.😉).\
 ✨ Allier une esthétique fluide et un code propre est mon challenge préféré.\
 ⚡ J'adore les series, papoter et coder!<br><br>
 
