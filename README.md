@@ -5,19 +5,17 @@
 ### 🙃 About me
 🙋 Je suis une femme, 👪 une maman, 🚀une développeuse passionnée et la "happy manager" de mon équipe 😁.\
 ↩️ J'ai commencé mon chemin dans le monde du web début 2019 et je suis toujours aussi conquise.\
-🎯 Je trouve dans le dev, à la fois: le challenge intellectuel, le contact avec le graphisme,et la possibilité de faire la différence.\
+🎯 Je trouve dans le dev, à la fois: le challenge intellectuel, le contact avec le graphisme et la possibilité de faire la différence.\
 📚 J'améliore mes skills chaque jour à travers une veille active et la lecture des fondamentaux (tonton bob et al.😉).\
-👥 Je mets un point d'honneur à appliquer au quotidien et à transmettre les bonnes pratiques qui m'ont été transmises en mentorat\
+👥 Je mets un point d'honneur à appliquer au quotidien et à transmettre les bonnes pratiques qui m'ont été transmises en mentorat.\
 ✨ Allier une esthétique fluide et un code propre est mon challenge préféré.\
 ⚡ J'adore les series, papoter et coder!<br><br>
 
 ### 💻 Ce que je code actuellement
-Je travaille sur un outil Saas dans le domaine de l'immobilier.\
-Je suis en charge de toute la partie Frontend du projet au sein d'une équipe de 3 devs.\
+Je travaille sur un outil Saas dans le domaine de l'immobilier. Je suis en charge de la partie frontend du projet au sein d'une équipe de 3 devs.\
 Je coopère avec notre graphiste pour évaluer la faisabilité des futures fonctionnalités et réalise l'intégration des maquettes,\
 puis j'analyse la feature à produire et implémente le code front.\
-Quand mes collègues sont sous l'eau, je pousse le dev jusqu'aux portes du back en créant les routes et controller dont j'ai besoin\
-voire même en définissant quelques relations ou migrations.\
+Quand mes collègues sont sous l'eau, je pousse le dev jusqu'aux portes du back en créant les routes et controller dont j'ai besoin.\
 Quand le planning le permet je m'attèle à des refactoring transversaux et tente d'améliorer la maintenabilité de notre application\
 en faisant la chasse à la complexité accidentelle et surtout cognitive 🤯.\
 Ce que j'aime dans mon taf actuel c'est la marge de manoeurvre qui m'ait laissée et la confiance qui m'ait faite\
