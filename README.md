@@ -42,7 +42,7 @@ quand à la manière d'implémenter ma solution et avoir la chance de travailler
 ### 🔎 Mes intérêts et questions du moment
 ### Lectures
 Head First - Les design patterns - Eric Freeman et Kathy Sierra\
-Design patterns - Catalogue de modèles de conception réutilisables - de Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères\
+Design patterns - Catalogue de modèles de conception réutilisables - de Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères
 ### Recherches (articles, vidéos...)
 Comment arrêter de faire du code trop "smart" (- DRY et + KISS)\
 Comment appliquer les Design Pattern dans mon quotidien de front en vue.js\
