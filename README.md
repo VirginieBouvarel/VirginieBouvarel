@@ -52,12 +52,10 @@ Pour pousser mes compétences en Vue.js: [ The Vue 3 Masterclass](https://vuesch
 Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)<br><br>
 
 
-### 💯 Quelques projets personnels
+### 💯 Quelques projets personnels (2020 - 2021)
 En React : [React movieDB](https://github.com/VirginieBouvarel/react-moviedb) [React ToDoList](https://github.com/VirginieBouvarel/react-todo-list)\
-En JS Natif : [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout)\
+En JS Natif : [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout) [JS MovieDB](https://github.com/VirginieBouvarel/projets_perso/tree/main/js-moviedb)\
 Intégrations : [Qovery](https://github.com/VirginieBouvarel/integrations/tree/main/qovery) [3D profilCard](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/newbie/profil_card) [Insure Landing page](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/junior/insure)<br><br>
-// Ajouter les années en face (anciens projets perso)
-// Ajouter les logos des langages à côté ou au dessus (projets react, projet js natifs, projet fullstack
 
 ### 📈 Github anaytics 
 <p>
