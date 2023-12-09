@@ -5,15 +5,15 @@
 ### 🙃 About me
 🙋 Je suis une femme, 👪 une maman, 🚀une développeuse passionnée et la "happy manager" de mon équipe 😁.\
 ↩️ J'ai commencé mon chemin dans le web début 2019 et je suis toujours aussi conquise.\
-🎯 Je trouve dans le dev: le challenge intellectuel, le graphisme et la possibilité de faire la différence.\
+🎯 Je trouve dans le dev : le challenge intellectuel, le graphisme et la possibilité de faire la différence.\
 👥 J'applique au quotidien et aime transmettre les bonnes pratiques qui m'ont été enseignées en mentorat.\
 📚 Je mène une veille active et lis les fondamentaux (tonton bob et al.😉).\
 ✨ Allier une esthétique fluide et un code propre est mon challenge préféré.\
 ⚡ J'adore les series, papoter et coder!<br><br>
 
 ### 💻 Ce que je code actuellement
-Je travaille sur un outil Saas dans le domaine de l'immobilier. Je suis en charge de la partie frontend du projet au sein d'une équipe de 3 devs.\
-Je coopère avec notre graphiste pour évaluer la faisabilité des futures fonctionnalités et réalise l'intégration des maquettes,\
+Je travaille sur un outil Saas dans le domaine de l'immobilier et suis en charge de la partie frontend du projet.\
+J'évalue la faisabilité des futures fonctionnalités avec la graphiste et réalise l'intégration des maquettes,\
 puis j'analyse la feature à produire et implémente le code front.\
 Quand mes collègues sont sous l'eau, je pousse le dev jusqu'aux portes du back en créant les routes et controller dont j'ai besoin.\
 Quand le planning le permet je m'attèle à des refactoring transversaux et tente d'améliorer la maintenabilité de notre application\
@@ -30,8 +30,6 @@ quand à la manière d'implémenter ma solution et avoir la chance de travailler
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?style=flat&logo=powershell&logoColor=white)
 
-<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/>
-
 ### 👀 Technos déjà utilisées ou sur lesquelles je me suis formée 
 ![React](https://img.shields.io/badge/-React-37BEFF?style=flat&logo=react&logoColor=white)&nbsp;
 ![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
@@ -39,10 +37,15 @@ quand à la manière d'implémenter ma solution et avoir la chance de travailler
 ![Angular8](https://img.shields.io/badge/-Angular8-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)<br><br>
 
+<img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/>
+
+
 ### 🔎 Mes intérêts et questions du moment
 ### Lectures
-Head First - Les design patterns - Eric Freeman et Kathy Sierra\
-Design patterns - Catalogue de modèles de conception réutilisables - de Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères
+Head First - Les design patterns\
+Eric Freeman et Kathy Sierra\
+Design patterns - Catalogue de modèles de conception réutilisables\
+Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères
 ### Recherches (articles, vidéos...)
 Comment arrêter de faire du code trop "smart" ? (- DRY et + KISS)\
 Comment appliquer les Design Patterns dans mon quotidien de front en vue.js ?\
