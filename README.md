@@ -37,7 +37,7 @@ quand à la manière d'implémenter ma solution et avoir la chance de travailler
 ![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white)&nbsp;
 ![Angular8](https://img.shields.io/badge/-Angular8-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)<br>
+![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)<br><br>
 
 ### 🔎 Mes intérêts et questions du moment
 ### Lectures
