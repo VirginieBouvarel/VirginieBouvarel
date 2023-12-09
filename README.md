@@ -44,7 +44,8 @@ d'implémenter ma solution et avoir la chance de travailler sur de beaux visuels
 ### Lectures
 Head First - Les design patterns\
 Eric Freeman et Kathy Sierra\
-Design patterns - Catalogue de modèles de conception réutilisables\
+Design patterns -\
+Catalogue de modèles de conception réutilisables -\
 Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères
 ### Recherches (articles, vidéos...)
 Comment arrêter de faire du code trop "smart" ? (- DRY et + KISS)\
