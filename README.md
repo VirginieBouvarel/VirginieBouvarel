@@ -15,8 +15,8 @@
 Je travaille sur un outil Saas dans le domaine de l'immobilier et suis en charge de la partie frontend du projet.\
 J'évalue la faisabilité des futures fonctionnalités avec la graphiste et réalise l'intégration des maquettes,\
 puis j'analyse la feature à produire et implémente le code front.\
-Quand mes collègues sont sous l'eau, je pousse le dev jusqu'aux portes du back en créant les routes et controller dont j'ai besoin.\
-Quand le planning le permet je m'attèle à des refactoring transversaux et tente d'améliorer la maintenabilité de notre application\
+Parfois, je pousse le dev jusqu'aux portes du back en créant les routes et controller dont j'ai besoin.\
+Ou je m'attèle à des refactoring transversaux et tente d'améliorer la maintenabilité de notre application\
 en faisant la chasse à la complexité accidentelle et surtout cognitive 🤯.\
 Ce que j'aime dans mon taf actuel c'est la marge de manoeuvre qui m'ait laissée, la confiance qui m'ait faite\
 quand à la manière d'implémenter ma solution et avoir la chance de travailler sur de beaux visuels.<br><br>
