@@ -3,13 +3,13 @@
 <img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br>
  
 ### 🙃 About me
-🙋 Je suis une femme, 👪 une maman, 🚀une développeuse passionnée et la "happy manager" de mon équipe 😁\
-↩️ J'ai commencé mon chemin dans le monde du web début 2019 et je suis toujours aussi conquise\
+🙋 Je suis une femme, 👪 une maman, 🚀une développeuse passionnée et la "happy manager" de mon équipe 😁.\
+↩️ J'ai commencé mon chemin dans le monde du web début 2019 et je suis toujours aussi conquise.\
 ✨ Je trouve dans le dev, à la fois: le challenge intellectuel et technique, le contact avec le graphisme et la couleur,\
  et la possibilité de faire la différence.\
-📚 J'améliore mes skills chaque jour à travers une veille active et la lecture des fondamentaux (tonton bob et al.😉)\
+📚 J'améliore mes skills chaque jour à travers une veille active et la lecture des fondamentaux (tonton bob et al.😉).\
 👨‍🏫 Je mets un point d'honneur à appliquer au quotidien et à transmetre les bonnes pratiques qui m'ont été transmises en mentorat\
-🏔  Allier une esthétique fluide et un code propre est mon challenge préféré\
+🏔  Allier une esthétique fluide et un code propre est mon challenge préféré.\
 ⚡ J'adore les series, papoter et coder!<br><br>
 
 ### Ce que je code actuellement
@@ -38,7 +38,7 @@ Mon dernier investissement 🤩
 
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/> // Changer image
 
-### 🛠 Ma Tech Stack au qotidien
+### 🛠 Ma Stack au qotidien
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
 ![Vuetify](https://img.shields.io/badge/-Vuetify-2A73C5?style=flat&logo=vuetify&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
@@ -49,13 +49,12 @@ Mon dernier investissement 🤩
 
 ### 👀 Technos déjà utilisées ou sur lesquelles je me suis formée 
 ![React](https://img.shields.io/badge/-React-37BEFF?style=flat&logo=react&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white)&nbsp;
 ![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white)&nbsp;
 ![Angular8](https://img.shields.io/badge/-Angular8-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)\
+![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)<br>
 
 
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
   ### 💯 Mes projets personnels
   // Ajouter les années en face (anciens projets perso)
   // Ajouter les logos des langages à côté ou au dessus (projets react, projet js natifs, projet fullstack
