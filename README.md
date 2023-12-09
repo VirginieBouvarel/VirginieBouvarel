@@ -3,29 +3,59 @@
 <img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br>
  
 ### 🙃 About me
-🙋 Je suis une femme, 👪 une maman, 🚀une développeuse hyper stylée en devenir et 👩‍🎨 une artiste du dimanche\
+🙋 Je suis une femme, 👪 une maman, 🚀une développeuse passionnée et la "happy manager" de mon équipe 😁\
 ↩️ J'ai commencé mon chemin dans le monde du web début 2019 et je suis toujours aussi conquise\
-📚 J'améliore mes skills chaque jour à travers des projets perso que je réalise de A à Z sans tuto ni consignes\
-👨‍🏫 J'apprends à écrire un code propre et des programmes bien concus grâce à mon mentor\
-🔍 J'adore parcourir les recoins du web pour trouver des tonnes de tips et de bonnes pratiques\
-🏔 Trouver le bon équilibre entre esthétique et fonctionnel est mon challenge préféré\
+✨ Je trouve dans le dev, à la fois: le challenge intellectuel et technique, le contact avec le graphisme et la couleur,\
+ et la possibilité de faire la différence.
+📚 J'améliore mes skills chaque jour à travers une veille active et la lecture des fondamentaux (tonton bob et al.😉)\
+👨‍🏫 Je mets un point d'honneur à appliquer au quotidien et à transmetre les bonnes pratiques qui m'ont été transmises en mentorat\
+🏔  Allier une esthétique fluide et un code propre est mon challenge préféré\
 ⚡ J'adore les series, papoter et coder!<br><br>
 
 ### Ce que je code actuellement
+Je travaille sur un outil Saas dans le domaine de l'immobilier.\
+Je suis en charge de toute la partie Frontend du projet au sein d'une équipe de 3 devs.\
+Je coopère avec notre graphiste pour évaluer la faisabilité des futures fonctionnalités et réalise l'intégration des maquettes,\
+puis j'analyse la feature à produire et implémente le code front.\
+Ce que j'aime dans mon taf actuel c'est la marge de manoeurvre qui m'ait laissée et la confiance qui m'ait faite\
+quand à la manière d'implémenter ma solution et aussi d'avoir la chance de travailler sur de beaux visuels.<br><br>
 
-### 💭 Ma veille active du moment
-Un projet open source initié par la communauté iters et Shirley Almosni-Chiche.\
-Plusieurs projets sont en cours de production : une plateforme de mise en relation mentors/mentorés, une plateforme de e-learning et une appli mobile.\
-J'ai la chance de faire partie de l'équipe front qui travaille sur la plateforme de mentorat.\
-Côté techno : React/Next.js/TypeScript/Docker.\
-Zone de confort : ⛔\
-Montée en compétence : 🚀<br>
+###  Mes intérêts et questions du moment
+Lecture
+// livre tete la première
 
-// Ajouter Vue master class
-// Projet Laravel de fred
+Articles, vidéos, recherches :
+Comment arrêter de faire du code trop "smart" (- DRY et + KISS)
+Comment appliquer les Design Pattern dans mon quotidien de front en vue.js ? 
+Comment centraliser la gestion des erreurs dans notre application ?
+
+Tutos
+Pousser mes compétences en Vue.js
+-> Vue master class
+Mon dernier investissement 🤩
+-> TDD de pierre criulanczy
+
 
 <img alt="Night Coding" src="https://media.giphy.com/media/SXxI9NlwvYiY3bRsck/giphy-downsized.gif" width=350px align="right"/> // Changer image
 
+### 🛠 Ma Tech Stack au qotidien
+![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
+![Vuetify](https://img.shields.io/badge/-Vuetify-2A73C5?style=flat&logo=vuetify&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel-F4392E?style=flat&logo=phlaravel&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?style=flat&logo=powershell&logoColor=white)\
+
+### 👀 Technos déjà utilisées ou sur lesquelles je me suis formée 
+![React](https://img.shields.io/badge/-React-37BEFF?style=flat&logo=react&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white)&nbsp;
+![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
+![Angular8](https://img.shields.io/badge/-Angular8-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)\
+
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
   ### 💯 Mes projets personnels
   // Ajouter les années en face (anciens projets perso)
   // Ajouter les logos des langages à côté ou au dessus (projets react, projet js natifs, projet fullstack
@@ -41,23 +71,7 @@ Montée en compétence : 🚀<br>
  [Insure Landing page](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/junior/insure)<br><br>
 
 
-### 🛠 Ma Tech Stack au qotidien
-✔️\
-![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
-![Vuetify](https://img.shields.io/badge/-Vuetify-2A73C5?style=flat&logo=vuetify&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)&nbsp;
-![Laravel](https://img.shields.io/badge/-Laravel-F4392E?style=flat&logo=phlaravel&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=Sass&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?style=flat&logo=powershell&logoColor=white)\
 
-👀\
-![React](https://img.shields.io/badge/-React-37BEFF?style=flat&logo=react&logoColor=white)&nbsp;
-![Php](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)&nbsp;
-![Angular8](https://img.shields.io/badge/-Angular8-DD0031?style=flat&logo=angular&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white)\
 
  
 ### Github anaytics 
