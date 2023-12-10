@@ -5,7 +5,7 @@
 ### 🙃 About me
 🙋 Je suis une femme, 👪 une maman, 🚀une développeuse passionnée et la "happy manager" de mon équipe 😁.\
 ↩️ J'ai commencé mon chemin dans le web début 2019 et je suis toujours aussi conquise.\
-🎯 Je trouve dans le dev : le challenge intellectuel, le graphisme et la possibilité de faire la différence.\
+🎯 Je trouve dans le dev : du challenge intellectuel, de la créativité et la possibilité de faire vraiment la différence.\
 👥 J'applique au quotidien et aime transmettre les bonnes pratiques qui m'ont été enseignées en mentorat.\
 📚 Je mène une veille active et lis les fondamentaux (tonton bob et al.😉).\
 ✨ Allier une esthétique fluide et un code propre est mon challenge préféré.\
@@ -13,13 +13,12 @@
 
 ### 💻 Ce que je code actuellement
 Je travaille sur un outil Saas dans le domaine de l'immobilier et suis en charge de la partie frontend du projet.\
-J'évalue la faisabilité des futures fonctionnalités avec la graphiste et réalise l'intégration des maquettes,\
-puis j'analyse la feature à produire et implémente le code front.\
+Je réalise l'intégration des maquettes, analyse les features à produires et implémente le code en découle.\
 Parfois, je pousse le dev jusqu'aux portes du back en créant les routes et controller dont j'ai besoin.\
 Ou je m'attèle à des refactoring transversaux et tente d'améliorer la maintenabilité de notre application\
 en faisant la chasse à la complexité accidentelle et surtout cognitive 🤯.\
-Ce que j'aime, c'est la marge de manoeuvre qui m'ait laissée, la confiance qui m'ait faite quand à la manière\
-d'implémenter ma solution et avoir la chance de travailler sur de beaux visuels.<br><br>
+Ce que j'aime dans mon poste actuel, c'est la marge de manoeuvre qui m'ait laissée, la confiance qui m'ait faite\
+quand à la manière d'implémenter mes solutions et avoir la chance de travailler sur de beaux visuels.<br><br>
 
 ### 🛠 Ma Stack au quotidien
 ![Vue](https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)&nbsp;
@@ -28,7 +27,7 @@ d'implémenter ma solution et avoir la chance de travailler sur de beaux visuels
 ![Laravel](https://img.shields.io/badge/-Laravel-F4392E?style=flat&logo=phlaravel&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-5C2D91?style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
-![Terminal](https://img.shields.io/badge/-Terminal-4EAA25?style=flat&logo=powershell&logoColor=white)
+![Terminal](https://img.shields.io/badge/-Terminal-000000?style=flat&logo=powershell&logoColor=white)
 
 ### 👀 Technos déjà utilisées ou sur lesquelles je me suis formée 
 ![React](https://img.shields.io/badge/-React-37BEFF?style=flat&logo=react&logoColor=white)&nbsp;
@@ -43,8 +42,8 @@ d'implémenter ma solution et avoir la chance de travailler sur de beaux visuels
 ### 🔎 Mes intérêts et questions du moment
 ### Lectures
 Head First - Les design patterns\
-Eric Freeman et Kathy Sierra\
-Design patterns -\
+Eric Freeman et Kathy Sierra<br>
+Design patterns -/
 Catalogue de modèles de conception réutilisables -\
 Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères
 ### Recherches (articles, vidéos...)
@@ -52,7 +51,7 @@ Comment arrêter de faire du code trop "smart" ? (- DRY et + KISS)\
 Comment centraliser la gestion des erreurs dans notre application ?\
 Comment appliquer les Design Patterns dans mon quotidien de front en vue.js ?
 ### Tutos:
-Pour pousser mes compétences en Vue.js: [ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) proposé en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
+Pour pousser mes compétences en Vue.js: [ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) Tuto en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
 Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)<br><br>
 
 
