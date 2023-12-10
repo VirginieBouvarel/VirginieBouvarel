@@ -61,8 +61,8 @@ En JS Natif : [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_
 Intégrations : [Qovery](https://github.com/VirginieBouvarel/integrations/tree/main/qovery) [3D profilCard](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/newbie/profil_card) [Insure Landing page](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/junior/insure)<br><br>
 
 ### Meetup WebDevMe Août 2022
-Concours de conférence organisé par Lior Chamla
-[Les composables en Vue.js](https://www.youtube.com/watch?v=6jqs-v4Trwk) (2e place)<br><br>
+Concours de conférence organisé par Lior Chamla\
+Thème proposé : [Les composables en Vue.js](https://www.youtube.com/watch?v=6jqs-v4Trwk) (2e place)<br><br>
 
 ### 📈 Github anaytics 
 <p>
