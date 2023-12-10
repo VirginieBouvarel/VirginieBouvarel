@@ -13,7 +13,7 @@
 
 ### 💻 Ce que je code actuellement
 Je travaille sur un outil Saas dans le domaine de l'immobilier et suis en charge de la partie frontend du projet.\
-Je réalise l'intégration des maquettes, analyse les features à produires et implémente le code en découle.\
+Je réalise l'intégration des maquettes, analyse les features à produire et implémente le code qui en découle.\
 Parfois, je pousse le dev jusqu'aux portes du back en créant les routes et controller dont j'ai besoin.\
 Ou je m'attèle à des refactoring transversaux et tente d'améliorer la maintenabilité de notre application\
 en faisant la chasse à la complexité accidentelle et surtout cognitive 🤯.\
