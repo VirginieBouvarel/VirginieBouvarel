@@ -64,7 +64,7 @@ Intégrations : [Qovery](https://github.com/VirginieBouvarel/integrations/tree/m
 Concours de conférence organisé par Lior Chamla\
 Thème proposé : [Les composables en Vue.js](https://www.youtube.com/watch?v=6jqs-v4Trwk) (2e place)<br><br>
 
-### 📈 Github anaytics 
+### 📈 Github analytics 
 <p>
 <a href="https://github.com/VirginieBouvarel">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=VirginieBouvarel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=My%20Github%20Statistics"/>
