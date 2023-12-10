@@ -1,4 +1,4 @@
-## Hi 👋, Bienvenue sur mon espace de travail quotidien 
+## Hi 👋, Bienvenue sur mon espace de travail
 
 <img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br>
  
