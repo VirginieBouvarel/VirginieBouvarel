@@ -60,6 +60,10 @@ En React : [React movieDB](https://github.com/VirginieBouvarel/react-moviedb) [R
 En JS Natif : [JS Pinball breakout](https://github.com/VirginieBouvarel/projets_perso/tree/main/breakout) [JS MovieDB](https://github.com/VirginieBouvarel/projets_perso/tree/main/movieDB_sandbox)\
 Intégrations : [Qovery](https://github.com/VirginieBouvarel/integrations/tree/main/qovery) [3D profilCard](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/newbie/profil_card) [Insure Landing page](https://github.com/VirginieBouvarel/frontendmentor_challenges/tree/main/junior/insure)<br><br>
 
+### Conférence pour le concours des Webdev Warriors de Lior Chamla
+Conférence donnée lors du meetup WebDevMe de Août 2022\
+[Les composables en Vue.js](https://www.youtube.com/watch?v=6jqs-v4Trwk)<br><br>
+
 ### 📈 Github anaytics 
 <p>
 <a href="https://github.com/VirginieBouvarel">
