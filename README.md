@@ -42,7 +42,7 @@ quand à la manière d'implémenter mes solutions et avoir la chance de travaill
 ### 🔎 Mes intérêts et questions du moment
 ### Lectures
 Head First - Les design patterns - E.Freeman et K.Sierra<br>
-Design patterns -Catalogue de modèles de conception réutilisables -\
+Design patterns - Catalogue de modèles de conception réutilisables -\
 Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères
 ### Recherches (articles, vidéos...)
 Comment arrêter de faire du code trop "smart" ? (- DRY et + KISS)\
