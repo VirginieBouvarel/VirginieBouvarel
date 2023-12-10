@@ -49,8 +49,10 @@ Comment arrêter de faire du code trop "smart" ? (- DRY et + KISS)\
 Comment centraliser la gestion des erreurs dans notre application ?\
 Comment appliquer les Design Patterns dans mon quotidien de front en vue.js ?
 ### Tutos:
-Pour pousser mes compétences en Vue.js: [ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) Tuto en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
-Mon dernier investissement : Le cursus de Pierre Criulanscy 🤩 [TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)<br><br>
+Pour pousser mes compétences en Vue.js: 
+[ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) Tuto en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
+Mon dernier investissement : 
+Le cursus de Pierre Criulanscy 🤩 [TDD et architecture hexagonale dans le frontend en pratique](https://www.craftacademy.fr/)<br><br>
 
 
 ### 💯 Quelques projets personnels (2020 - 2021)
