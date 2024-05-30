@@ -1,6 +1,4 @@
 ## Hi 👋, Bienvenue sur mon espace de travail
-
-<img alt="banner" title="banner" src="https://raw.githubusercontent.com/VirginieBouvarel/VirginieBouvarel/master/img/banner-girlscancodeto.gif"><br>
  
 ### 🙃 About me
 🙋 Je suis une femme, 👪 une maman, 🚀une développeuse passionnée et la "happy manager" de mon équipe 😁.\
@@ -41,14 +39,14 @@ quand à la manière d'implémenter mes solutions et avoir la chance de travaill
 
 ### 🔎 Mes intérêts et questions du moment
 ### Lectures
-Software Craft - TDD, Clean Code et autres pratiques essentielles -\
+**Software Craft - TDD, Clean Code et autres pratiques essentielles** -\
 C.Martraire, A. Thiéfaine, D. Bartaguiz, F. Hiegel, H. Fakih<br>
-Head First - Les design patterns - E.Freeman et K.Sierra<br><br>
+**Head First - Les design patterns** - E.Freeman et K.Sierra<br><br>
 
 ### Recherches (articles, vidéos...)
-Comment appliquer les Design Patterns dans mon quotidien de front en vue.js ?
-Comment rendre notre application testable ?
-Comment ajouter des tests E2E et unitaires pour améliorer la qualité de notre code ?
+Comment appliquer les Design Patterns dans mon quotidien de front en vue.js ?\
+Comment rendre notre application testable ?\
+Comment ajouter des tests E2E et unitaires pour améliorer la qualité de notre code ?<br><br>
 
 ### Katas
 FizzBuzz, Leap years, Roman Numerals, Mölkky
