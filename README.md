@@ -41,13 +41,18 @@ quand à la manière d'implémenter mes solutions et avoir la chance de travaill
 
 ### 🔎 Mes intérêts et questions du moment
 ### Lectures
-Head First - Les design patterns - E.Freeman et K.Sierra<br>
-Design patterns - Catalogue de modèles de conception réutilisables -\
-Gamma/Helm/Johnson/Vlissides- traduction de J-M Lasvergères
+Software Craft - TDD, Clean Code et autres pratiques essentielles -\
+C.Martraire, A. Thiéfaine, D. Bartaguiz, F. Hiegel, H. Fakih<br>
+Head First - Les design patterns - E.Freeman et K.Sierra<br><br>
+
 ### Recherches (articles, vidéos...)
-Comment arrêter de faire du code trop "smart" ? (- DRY et + KISS)\
-Comment centraliser la gestion des erreurs dans notre application ?\
 Comment appliquer les Design Patterns dans mon quotidien de front en vue.js ?
+Comment rendre notre application testable ?
+Comment ajouter des tests E2E et unitaires pour améliorer la qualité de notre code ?
+
+### Katas
+FizzBuzz, Leap years, Roman Numerals, Mölkky
+
 ### Tutos:
 Pour pousser mes compétences en Vue.js:\
 [ The Vue 3 Masterclass](https://vueschool.io/courses/the-vuejs-3-master-class) Tuto en Options/Vuex/Firebase8 que je réalise en CAPI/Pinia/Firebase10\
